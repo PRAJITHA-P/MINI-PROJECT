@@ -1,4 +1,4 @@
-# MINI-PROJECT
+# COVID19 Detection From Xray & Accuracy Comparison
 
 
 
